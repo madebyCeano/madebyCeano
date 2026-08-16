@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Ceano ⚡
 
-<!--
-**madebyCeano/madebyCeano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer**  
+Building web and mobile apps. Based in France 🇫🇷.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 The Code 
+> ✨ Building scalable applications and clean interfaces.
+* ⌨️ **Languages:** TypeScript, HTML/CSS
+* 🧱 **Frameworks/Libraries:** React, Next.js, Tailwind, Better Auth, Drizzle, Neon
+* ⚙️ **Tools:** Git, Docker, VSCode, Framer
+
+---
+
+### 🚀 Current State
+* 👨‍💻 **Building:** A mobile app about food and people 🍔👥!
+* 🌱 **Learning:** Everything and nothing 🌌
+
+### 🔗 Connect
+* ✉️ **Contact:** madeby.ceano@gmail.com
